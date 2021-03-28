@@ -19,7 +19,7 @@ namespace ParralelMatrix
                 throw new ArgumentException("Matrix sizes mismatch");
             }
 
-            // Get processor count
+            // Force only half of threads, if degree is not passed
             int degree = Degree == 0 ? Environment.ProcessorCount / 2 : Degree;
 
             // Get matrix size
