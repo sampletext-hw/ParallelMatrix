@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelMatrix", "ParallelMatrix\ParallelMatrix.csproj", "{BC1DD954-0206-409E-861A-2ED4E4A0DA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1DD954-0206-409E-861A-2ED4E4A0DA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1DD954-0206-409E-861A-2ED4E4A0DA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1DD954-0206-409E-861A-2ED4E4A0DA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1DD954-0206-409E-861A-2ED4E4A0DA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
